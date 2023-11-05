@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "722764967921",
+    "project_id": "apps-5df4e",
+    "storage_bucket": "apps-5df4e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:722764967921:android:228245f29bf477528c9e50",
+        "android_client_info": {
+          "package_name": "com.ajiashi.imagetotextconverter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwHx4xVGWc98aUmjdxkcVlAbclHNFUXXY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
